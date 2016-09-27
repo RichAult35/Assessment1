@@ -13,7 +13,9 @@ BBC Responsive layout
 
  
 [link to google] (http://wwwdaringfireball.net/projects/markdown/))
->> this is a note
+
+>> Differences / changes Desktop to Responsive
+
 
  - Menu symbol added for Responisve site, text minimalised
  - Responsive typography
