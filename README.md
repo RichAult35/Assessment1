@@ -2,7 +2,9 @@
 
 #Responsive and Desktop Comparison sites
 
-Web layout
+Responsive layout
+
+![mobile](bbc2.png)
 
 Desktop layout
 
