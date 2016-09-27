@@ -1,4 +1,4 @@
-# This is my heading
+#Responsive Design
 
 #sub heading
 
