@@ -2,14 +2,16 @@
 
 #Responsive and Desktop Comparison sites
 
-BBC Responsive layout
-
-![mobile](bbc2.png)
-
 BBC Desktop layout
 
 ![desktop](bbc1.png)
 
+
+BBC Responsive layout
+
+![mobile](bbc2.png)
+
+ 
 [link to google] (http://wwwdaringfireball.net/projects/markdown/))
 >> this is a note
 
@@ -18,6 +20,22 @@ BBC Desktop layout
  - break points - images re-sized
  
 <sub> some small text </sub>
+
+
+Netflix Desktop layout
+
+![netflix](netflix1.png)
+
+
+Netflix Responsive layout ![netflix] (netflix2.png)
+
+
+
+(starbucks1.png)
+
+
+(starbucks-2.png)
+
 
 
 ``` html
