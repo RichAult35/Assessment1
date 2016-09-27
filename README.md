@@ -28,13 +28,17 @@ BBC Responsive layout
 
 
 
-Netflix Desktop layout  ![netflix] (netflix2.png) Netflix Responsive layout   ![netflix](netflix1.png)
+Netflix Desktop layout  ![netflix] (netflix2.png) 
 
 
-(starbucks1.png)
+
+Netflix Responsive layout   ![netflix](netflix1.png)
 
 
-(starbucks-2.png)
+Desktop layout  ![starbucks]  (starbucks1.png)
+
+
+Responsive layout   ![starbucks]  (starbucks-2.png)
 
 
 
