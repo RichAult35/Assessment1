@@ -17,5 +17,5 @@ New line
 
 <h1> html code block </h1>
 
-! [jelly fish] (jellyfish.jpg)
+![desktop](bbc1.png)
 <sub> .. Fig 1 </sub>
