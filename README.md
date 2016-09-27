@@ -2,19 +2,20 @@
 
 #Responsive and Desktop Comparison sites
 
-Responsive layout
+BBC Responsive layout
 
 ![mobile](bbc2.png)
 
-Desktop layout
+BBC Desktop layout
 
 ![desktop](bbc1.png)
 
 [link to google] (http://wwwdaringfireball.net/projects/markdown/))
 >> this is a note
 
- - point 1
- - point 2
+ - Menu symbol added for Responisve site, text minimalised
+ - Responsive typography
+ - break points - images re-sized
  
 <sub> some small text </sub>
 
