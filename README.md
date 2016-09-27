@@ -1,8 +1,12 @@
-#Responsive Design
+#Responsive Design - Session 1
 
-#sub heading
+#Responsive and Desktop Comparison sites
 
-New line
+Web layout
+
+Desktop layout
+
+![desktop](bbc1.png)
 
 [link to google] (http://wwwdaringfireball.net/projects/markdown/))
 >> this is a note
@@ -17,5 +21,6 @@ New line
 
 <h1> html code block </h1>
 
-![desktop](bbc1.png)
+
 <sub> .. Fig 1 </sub>
+```
